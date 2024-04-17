@@ -1,5 +1,5 @@
 Question 1 passcode: greenEggsAndHam
-Question 2 passcode:iHateCplusplus
+Question 2 passcode: iHateCplusplus
 Question 3 passcode: HTMLRocks
 Question 4 passcode: JavaScriptRules
 Question 5 passcode: SvelteBeatsReact
